@@ -2,7 +2,7 @@ package com.bridgelabz;
 
 import java.util.Scanner;
 
-public class LineComparisonusingOOPS {
+public class LineComparison {
 
 	public static void main(String[] args) {
 		Scanner s = new Scanner(System.in);
@@ -55,6 +55,5 @@ public class LineComparisonusingOOPS {
 			System.out.println("Length of first end points is less than length of second end points");
 		else
 			System.out.println("Both lines are equal.");
-  }
 }
-
+} 
